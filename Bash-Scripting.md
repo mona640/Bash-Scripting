@@ -1,4 +1,4 @@
-# Bash Scripting
+# Bash Scripting Challenges
 
 This folder contains four Bash scripting challenges completed as part of the CoderCo DevOps course.
 
